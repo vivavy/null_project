@@ -3,6 +3,7 @@
   "desc": "Null project",
   "priority": -1,
   "status": "finished",
+  "terminal": true,
   "depencies": [
     "python3"
   ]
