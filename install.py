@@ -1,1 +1,4 @@
-print("It's a null project")
+import os, sys
+
+
+print("install script completed!")
